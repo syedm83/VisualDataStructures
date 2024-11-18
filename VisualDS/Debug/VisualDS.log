@@ -1,0 +1,18 @@
+﻿  VisualStack.cpp
+C:\Users\syedm\source\repos\VisualDS\VisualDS\VisualStack.cpp(60,19): error C2601: 'VisualStack::updateAnimation': local function definitions are illegal
+      C:\Users\syedm\source\repos\VisualDS\VisualDS\VisualStack.cpp(50,39):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\syedm\source\repos\VisualDS\VisualDS\VisualStack.cpp(88,19): error C2601: 'VisualStack::render': local function definitions are illegal
+      C:\Users\syedm\source\repos\VisualDS\VisualDS\VisualStack.cpp(50,39):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\syedm\source\repos\VisualDS\VisualDS\VisualStack.cpp(98,19): error C2601: 'VisualStack::isEmpty': local function definitions are illegal
+      C:\Users\syedm\source\repos\VisualDS\VisualDS\VisualStack.cpp(50,39):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\syedm\source\repos\VisualDS\VisualDS\VisualStack.cpp(102,19): error C2601: 'VisualStack::isAnimationActive': local function definitions are illegal
+      C:\Users\syedm\source\repos\VisualDS\VisualDS\VisualStack.cpp(50,39):
+      this line contains a '{' which has not yet been matched
+  
+C:\Users\syedm\source\repos\VisualDS\VisualDS\VisualStack.cpp(50,39): error C1075: '{': no matching token found
